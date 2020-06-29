@@ -1,3 +1,9 @@
+# 5.4.5-k2
+
+## Features
+
+- Updates selenium-webdriver to 3.6.1-k2 that supports attaching cookies to http requests
+
 # 5.4.4
 
 ## Fixes
