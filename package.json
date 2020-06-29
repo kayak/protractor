@@ -1,8 +1,8 @@
 {
   "name": "protractor",
   "description": "Webdriver E2E test wrapper for Angular.",
-  "version": "5.4.5-k2",
-  "homepage": "https://github.com/angular/protractor",
+  "version": "5.4.5-k3",
+  "homepage": "https://github.com/kayak/protractor",
   "keywords": [
     "angular",
     "test",
@@ -23,7 +23,7 @@
     "jasminewd2": "^2.1.0",
     "q": "1.4.1",
     "saucelabs": "^1.5.0",
-    "selenium-webdriver": "3.6.1-k2",
+    "selenium-webdriver": "3.6.1-k3",
     "source-map-support": "~0.4.0",
     "webdriver-js-extender": "2.1.0",
     "webdriver-manager": "^12.0.6",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/protractor.git"
+    "url": "git@github.com:kayak/protractor.git"
   },
   "bin": {
     "protractor": "bin/protractor",
